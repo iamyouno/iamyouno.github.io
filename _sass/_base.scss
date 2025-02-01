@@ -368,7 +368,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   flex: 1; /* 설명 부분이 가변적으로 늘어나도록 설정 */
   font-size: 16px;
   justify-content: flex-start;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 .portfolio-description h3,
@@ -453,5 +453,11 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
     cursor: default;
     right: auto !important; /* 기존 right: 0 제거 */
-}
+  }
+
+  @media (max-width: $small) {
+    .portfolio-description p {
+      display: none; /* 모바일 화면에서 keywords 숨기기 */
+    }
+  }
 }
