@@ -39,3 +39,7 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+#aboutme, #publications, #portfolio {
+    scroll-margin-top: 65px; /* 헤더 높이만큼 조정 */
+  }

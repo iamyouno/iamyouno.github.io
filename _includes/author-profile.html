@@ -24,6 +24,8 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
+      <li><a href="{{ base_path }}/files/paper1.pdf"><i class="fas fa-fw fa-scroll icon-pad-right" aria-hidden="true"></i>CV</a></li>
+
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
@@ -82,6 +84,7 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
+
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}

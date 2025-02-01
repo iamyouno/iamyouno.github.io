@@ -381,13 +381,17 @@ body:hover .visually-hidden button {
 /*
    Sticky, fixed to top content
    ========================================================================== */
+.sidebar-container {
+  overflow: visible !important; /* 👈 부모 요소의 overflow 문제 해결 */
+}
 
 .sticky {
   @include breakpoint($large) {
     @include clearfix();
-    position: -webkit-sticky;
+    // sidebars, position 고정 제거
+    // position: -webkit-sticky;
     position: sticky;
-    top: 2em;
+    top: 5em;
 
     > * {
       display: block;
