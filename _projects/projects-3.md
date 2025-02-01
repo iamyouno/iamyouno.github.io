@@ -6,8 +6,7 @@ custom_padding: "small"
 ---
 
 <div style="display: flex; justify-content: center;">
-  <!-- <video src="/images/fiber_demo_short.mp4" width="482" height="325" controls></video> -->
-  <video src="https://raw.githubusercontent.com/github_username/github_username.github.io/main/images/fiber_demo.mp4" width="482" height="325" controls></video>
+  <video src="/images/fiber_demo_new.mp4" width="482" height="325" controls></video>
 </div>
 <div style="height: 15px;"></div>
 

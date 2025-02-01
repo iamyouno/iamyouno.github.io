@@ -27,15 +27,14 @@ News
 - 🏆 [**Dec 19, 2024**] - Successfully defended my Master's thesis!
 
 
-<!-- Publications -->
+
 <h2 id="publications">Publications</h2>
 - Probabilistic Inertial Poser (ProbIP): Uncertainty-aware Human Motion Modeling from Sparse Inertial Sensors
 Min Kim, Younho Jeon, Sungho Jo.
 Under review
 
 
-<!-- Portfolio
---- -->
+
 <h2 id="projects">Projects</h2>
 
 {% include projects_list.html %}
