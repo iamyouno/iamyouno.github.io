@@ -19,8 +19,8 @@ I am also interested in  2D/3D Computer Vision and Diffusion Models. I am explor
 
 Education
 ------
-- 🎓 **M.S. in Computer Science**, Korea Advanced Institute of Science and Technolog, KAIST, 2023-2025
-- 🎓 **B.S. in Computer Science**, Korea Advanced Institute of Science and Technolog, KAIST, 2018-2023
+- 🎓 **M.S. in Computer Science**, Korea Advanced Institute of Science and Technology, KAIST, 2023-2025
+- 🎓 **B.S. in Computer Science**, Korea Advanced Institute of Science and Technology, KAIST, 2018-2023
 
 News
 ------
