@@ -18,7 +18,7 @@ Network Architecture
 </p>
 <img src="/images/if_full_model.png" style="height: 200px; object-fit: cover; display: block; margin: 0 auto;">
 <p style="font-size: 17px; color: #444444; font-family: sans-serif;">
-Our proposed InteractFormer predicts which objects a motion is contacting by analyzing sequential point cloud data. Using a P4D block, the model interprets point cloud motion information in four dimensions, enabling accurate prediction of contact points.</p>
+Our proposed InteractFormer predicts which objects a motion is in contact with by analyzing sequential point cloud data. Using a P4D block, the model interprets point cloud motion information in four dimensions, enabling accurate prediction of contact points.</p>
 <div style="height: 15px;"></div>
 <img src="/images/full_model.png" style="height: 300px; object-fit: cover; display: block; margin: 0 auto;">
 <p style="font-size: 17px; color: #444444; font-family: sans-serif;">
@@ -31,12 +31,12 @@ Quantitative Results
 </p>
 <img src="/images/quan_results_1.png" style="height: 150px; margin: 0 10% 0 5%;">
 <p style="font-size: 17px; color: #444444; font-family: sans-serif;">
-Our InteractFormer consistently outperforms the baseline models across all evaluation metrics, demonstrating its effectiveness in accurately predicting contact points. As shown in above table, our model achieves a significant improvement in F1 score, Accuracy, and Contact-Accuracy for both the PROX and HUMANISE datasets.
+Our InteractFormer consistently outperforms the baseline models across all evaluation metrics, demonstrating its effectiveness in accurately predicting contact points. As shown in the above table, our model achieves a significant improvement in F1 score, Accuracy, and Contact-Accuracy for both the PROX and HUMANISE datasets.
 </p>
 <div style="height: 15px;"></div>
 <img src="/images/quan_results_2.png" style="height: 130px; margin: 0 10% 0 5%;">
 <!-- <img src="/images/quan_results_2.png" style="height: 150px; object-fit: cover;"> -->
 
 <p style="font-size: 17px; color: #444444; font-family: sans-serif;">
-For evaluation of Generating Interacting Objects, we adopted standard point cloud comparison metrics used in previous research, LSDM, including Chamfer Distance (CD), Earth Mover’s Distance (EMD), and F1 Score, which measure the similarity between the predicted and ground truth point clouds.
+For evaluation of generating interacting objects, we adopted standard point cloud comparison metrics used in previous research, LSDM, including Chamfer Distance (CD), Earth Mover’s Distance (EMD), and F1 Score, which measure the similarity between the predicted and ground truth point clouds.
 </p>

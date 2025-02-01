@@ -14,7 +14,7 @@ Augmented Intelligence Laboratory (NMAIL) under the supervision of Prof. Sungho 
 
 My research primarily focused on human motion analysis using various sensors. I investigated methods for reconstructing human motion from sensor data and developed efficient techniques for visualizing motion data.
 
-I am also interested in  2D/3D Computer Vision and Diffusion Models. I am exploring ways to integrate motion and vision-based diffusion models to develop AI-driven solutions for tasks such as motion generation and 3D scene understanding.
+I am also interested in 2D/3D Computer Vision and Diffusion Models. I am exploring ways to integrate motion and vision-based diffusion models to develop AI-driven solutions for tasks such as motion generation and 3D scene understanding.
 
 
 Education
