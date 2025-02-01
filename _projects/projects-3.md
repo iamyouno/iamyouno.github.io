@@ -1,10 +1,13 @@
 ---
-title: "<div style='font-size: 24px; color: #333; font-family: sans-serif;'>Wearable Fiber Sensor for Hand Gesture Recognition</div>"
+title: "<div style='font-size: 24px; color: #333; font-family: sans-serif;'>
+Wearable Fiber Sensor for Hand Gesture Recognition</div>"
 collection: portfolio
 custom_padding: "small"
 ---
+
 <div style="display: flex; justify-content: center;">
-<video src="/images/fiber_demo_short.mp4" width="640" height="360" controls></video>
+  <!-- <video src="/images/fiber_demo_short.mp4" width="482" height="325" controls></video> -->
+  <video src="https://raw.githubusercontent.com/github_username/github_username.github.io/main/images/fiber_demo.mp4" width="482" height="325" controls></video>
 </div>
 <div style="height: 15px;"></div>
 

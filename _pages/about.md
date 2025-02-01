@@ -30,7 +30,7 @@ News
 <!-- Publications -->
 <h2 id="publications">Publications</h2>
 - Probabilistic Inertial Poser (ProbIP): Uncertainty-aware Human Motion Modeling from Sparse Inertial Sensors
-Min Kim, Younho Jeon, Sungho Jo
+Min Kim, Younho Jeon, Sungho Jo.
 Under review
 
 
