@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <h2 id="aboutme">About me</h2>
-Hi, I'm **Younho Jeon**, an M.S. graduate in Computer Science from KAIST, where I conducted research at Neuro-Machine
-Augmented Intelligence Laboratory (NMAIL) under the supervision of Prof. Sungho Jo.
+Hi, I'm **Younho Jeon**, an M.S. graduate in Computer Science from KAIST, where I conducted research at the Neuro-Machine Augmented Intelligence Laboratory (NMAIL) under the supervision of Prof. Sungho Jo.
 
 My research primarily focused on human motion analysis using various sensors. I investigated methods for reconstructing human motion from sensor data and developed efficient techniques for visualizing motion data.
 
