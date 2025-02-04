@@ -23,7 +23,7 @@ Education
 
 News
 ------
-- 🏆 [**Dec 19, 2024**] - Successfully defended my Master's thesis!
+- 🏆 [**Dec 19, 2024**] - Successfully defended my Master's thesis!   \[[Slides](files/master_thesis_slides.pdf)\]
 
 
 
