@@ -28,19 +28,24 @@ News
 
 
 <h2 id="publications">Publications</h2>
-- VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph
-Yuntae Jeon<sup>†</sup>, **Younho Jeon**<sup>†</sup>, Sujin Jin, Sungho Jo, Seunghee Park.
-Under review
+<ul class="publication-list">
+  <li class="publication-item">
+    <div class="publication-title">VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph</div>
+    <div class="publication-authors">Yuntae Jeon<sup>†</sup>, <strong>Younho Jeon</strong><sup>†</sup>, Sujin Jin, Sungho Jo, Seunghee Park.</div>
+    <div class="publication-venue"><span class="publication-badge publication-badge--review">Under review</span></div>
+  </li>
+  <li class="publication-item">
+    <div class="publication-title">Probabilistic Inertial Poser (ProbIP): Uncertainty-aware Human Motion Modeling from Sparse Inertial Sensors</div>
+    <div class="publication-authors">Min Kim, <strong>Younho Jeon</strong>, Sungho Jo.</div>
+    <div class="publication-venue"><span class="publication-badge">ICCV 2025</span></div>
+  </li>
+  <li class="publication-item">
+    <div class="publication-title">Cross-user wearable hand interface through history-independent sensing and user-conditioned alignment</div>
+    <div class="publication-authors">Yunheum Lee<sup>†</sup>, Min Kim<sup>†</sup>, Kyunghyun Jo<sup>†</sup>, <strong>Younho Jeon</strong>, et al.</div>
+    <div class="publication-venue"><span class="publication-badge publication-badge--review">Under review</span></div>
+  </li>
+</ul>
 
-- Probabilistic Inertial Poser (ProbIP): Uncertainty-aware Human Motion Modeling from Sparse Inertial Sensors
-Min Kim, **Younho Jeon**, Sungho Jo.
-ICCV 2025
-
-- Cross-user wearable hand interface through history-independent sensing and user-conditioned alignment
-Yunheum Lee<sup>†</sup>, Min Kim<sup>†</sup>, Kyunghyun Jo<sup>†</sup>, **Younho Jeon**, et al.
-Under review
-
-<sup>†</sup> Equal contribution.
 
 <h2 id="projects">Projects</h2>
 

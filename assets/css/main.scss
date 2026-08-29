@@ -41,5 +41,61 @@
 @import "print";
 
 #aboutme, #publications, #projects {
-    scroll-margin-top: 65px; /* 헤더 높이만큼 조정 */
+  scroll-margin-top: 65px; /* 헤더 높이만큼 조정 */
+}
+
+.publication-list {
+  margin: 0 0 1.25em;
+  padding: 0;
+  list-style: none;
+}
+
+.page__content .publication-item {
+  margin-bottom: 2em;
+  padding: 0.1em 0 0.15em 1em;
+  border-left: 3px solid $border-color;
+
+  &:last-child {
+    margin-bottom: 0;
   }
+}
+
+.publication-title {
+  margin-bottom: 0.35em;
+  color: $darker-gray;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.publication-authors {
+  margin-bottom: 0.5em;
+  color: $gray;
+  font-size: 0.95em;
+  line-height: 1.5;
+
+  strong {
+    color: $text-color;
+  }
+}
+
+.publication-badge {
+  display: inline-block;
+  padding: 0.25em 0.65em;
+  border-radius: 999px;
+  background: mix(#fff, $info-color, 88%);
+  color: mix(#000, $info-color, 15%);
+  font-size: 0.8em;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.publication-badge--review {
+  background: $lighter-gray;
+  color: $gray;
+}
+
+.page__content .publication-note {
+  margin-top: -0.25em;
+  color: $gray;
+  font-size: 0.85em;
+}
