@@ -28,11 +28,19 @@ News
 
 
 <h2 id="publications">Publications</h2>
+- VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph
+Yuntae Jeon<sup>†</sup>, **Younho Jeon**<sup>†</sup>, Sujin Jin, Sungho Jo, Seunghee Park.
+Under review
+
 - Probabilistic Inertial Poser (ProbIP): Uncertainty-aware Human Motion Modeling from Sparse Inertial Sensors
-Min Kim, Younho Jeon, Sungho Jo.
+Min Kim, **Younho Jeon**, Sungho Jo.
 ICCV 2025
 
+- Cross-user wearable hand interface through history-independent sensing and user-conditioned alignment
+Yunheum Lee<sup>†</sup>, Min Kim<sup>†</sup>, Kyunghyun Jo<sup>†</sup>, **Younho Jeon**, et al.
+Under review
 
+<sup>†</sup> Equal contribution.
 
 <h2 id="projects">Projects</h2>
 
