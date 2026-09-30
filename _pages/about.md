@@ -32,7 +32,7 @@ News
   <li class="publication-item">
     <div class="publication-title">VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph</div>
     <div class="publication-authors">Yuntae Jeon<sup>†</sup>, <strong>Younho Jeon</strong><sup>†</sup>, Sujin Jin, Sungho Jo, Seunghee Park.</div>
-    <div class="publication-venue"><span class="publication-badge publication-badge--review">Under review</span></div>
+    <div class="publication-venue"><span class="publication-badge publication-badge--review">NeurIPS 2026, spotlight</span></div>
   </li>
   <li class="publication-item">
     <div class="publication-title">Probabilistic Inertial Poser (ProbIP): Uncertainty-aware Human Motion Modeling from Sparse Inertial Sensors</div>
